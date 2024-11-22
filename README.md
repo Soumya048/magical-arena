@@ -1,1 +1,1 @@
-# -magical-arena
+# magical-arena
